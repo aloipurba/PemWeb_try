@@ -26,7 +26,7 @@ $role_user = $_SESSION['role_user'] ?? '';
         body {
             font-family: 'Roboto', sans-serif;
             background-color: #f9f9f9;
-            background-image: url('haha.jpg');
+            background-image: url('background.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
