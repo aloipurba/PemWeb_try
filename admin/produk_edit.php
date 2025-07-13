@@ -61,7 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
         body {
             font-family: 'Roboto', sans-serif;
-            background-image: url('../haha.jpg');
+            background-image: url('../background.jpg');
             background-size: cover;
             background-attachment: fixed;
             position: relative;
